@@ -2,7 +2,7 @@
 
 Hello! My name is Wayne Burritt and I am a ballet master and choreographer from Johnson City, TN. Please feel free to take a look at my biography, resume, and list of choreorgraphy. If you need a ballet teacher or have any questions, don't hesitate to get in touch!
 
-> [info@wayneburrittdance.com](mailto:info@wayneburrittdance.com?subject=Info)
+> [wayne@wayneburrittdance.com](mailto:wayne@wayneburrittdance.com?subject=Info)
 
 ## [Biography](https://github.com/burrittresearch/wayne-burritt-dance/blob/master/wayne-burritt-biography.pdf)
 

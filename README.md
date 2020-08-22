@@ -3,7 +3,7 @@
 My name is Wayne Burritt and I am a ballet master and choreographer from Johnson City, TN. Please feel free to take a look at my resume, biography, and list of choreorgraphy. If you need a ballet teacher or have any questions, don't hesitate to get in touch! 
 [info@wayneburrittdance.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=info@wayneburrittdance.com&su=More%20Info)
 
-## Biography
+## [Biography](https://github.com/burrittresearch/wayne-burritt-dance/blob/master/wayne-burritt-biography.pdf)
 
 Wayne began training at age 12 in Miami, Florida as a ballroom dancer and eventually earned a scholarship to the Orlando Ballet School (formerly Southern Ballet Theatre) in Orlando, Florida. For SBT he danced a variety of classical and modern roles for the School as well as serving as company manager and financial controller. In 1985 he married his wife Debi and enrolled in the School of San Francisco Ballet, continuing his studies with some of the finest teachers in the country. Wayne also took time to earn his MBA in Arts Management in 1987. He moved to Naples, Florida shortly thereafter and joined Naples Ballet Theatre, where Artistic Director Kim Salgat created a number of roles for him in contemporary and classical works. In 1991, Wayne joined the critically acclaimed Demetrius Klein Dance Company and rose to the position of Assistant Artistic Director before retiring from the stage in 1993.
 
@@ -28,7 +28,7 @@ Wayne’s students have also gone on to dance for highly regarded professional c
 Wayne successfully completed the entire Vaganova Teacher Training Program (Years One through Five) directed by U.S. Vaganova expert John White. Wayne has also completed the two-year Professional Ballet Teacher Training with nationally acclaimed pedagogue Ruth C. Petrinovic -- “the ballet teacher’s teacher.” He holds an MBA in Arts Management from Golden Gate University and a BA in English and Philosophy from Indiana University. 
 Wayne makes his home in Johnson City, TN with his wife Debi.
 
-## Resume
+## [Resume](https://github.com/burrittresearch/wayne-burritt-dance/blob/master/wayne-burritt-resume.pdf)
 
 ### QUALIFICATIONS SUMMARY
 

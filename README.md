@@ -32,8 +32,6 @@ Wayne’s students have also gone on to dance for highly regarded professional c
 Wayne successfully completed the entire Vaganova Teacher Training Program (Years One through Five) directed by U.S. Vaganova expert John White. Wayne has also completed the two-year Professional Ballet Teacher Training with nationally acclaimed pedagogue Ruth C. Petrinovic -- “the ballet teacher’s teacher.” He holds an MBA in Arts Management from Golden Gate University and a BA in English and Philosophy from Indiana University. 
 Wayne makes his home in Johnson City, TN with his wife Debi.
 
-## [Resume](https://github.com/burrittresearch/wayne-burritt-dance/blob/master/wayne-burritt-resume.pdf)
-
 ## Resume
 
 > [Download](https://wayneburrittdance.com/wayne-burritt-resume.pdf)

@@ -1,4 +1,4 @@
-# Welcome to WayneBurrittDance.com!
+<h1>Welcome to WayneBurrittDance.com!</h1>
 
 Hello! My name is Wayne Burritt and I am a ballet master and choreographer from Johnson City, TN. Please feel free to take a look at my biography, resume, and list of choreorgraphy. If you need a ballet teacher or have any questions, don't hesitate to get in touch!
 
@@ -6,9 +6,7 @@ Hello! My name is Wayne Burritt and I am a ballet master and choreographer from 
 
 > [wayneburrittdance.com](https://wayneburrittdance.com)
 
-# Biography
-## Bio
-### Bio
+<h2>Biography</h2>
 
 > [Download](https://wayneburrittdance.com/wayne-burritt-biography.pdf)
 
@@ -36,15 +34,15 @@ Wayne’s students have also gone on to dance for highly regarded professional c
 Wayne successfully completed the entire Vaganova Teacher Training Program (Years One through Five) directed by U.S. Vaganova expert John White. Wayne has also completed the two-year Professional Ballet Teacher Training with nationally acclaimed pedagogue Ruth C. Petrinovic -- “the ballet teacher’s teacher.” He holds an MBA in Arts Management from Golden Gate University and a BA in English and Philosophy from Indiana University. 
 Wayne makes his home in Johnson City, TN with his wife Debi.
 
-## Resume
+<h2>Resume</h2>
 
 > [Download](https://wayneburrittdance.com/wayne-burritt-resume.pdf)
 
-### Qualifications Summary
+<h3>Qualifications Summary</h3>
 
 Results-driven ballet master, teacher, & choreographer with demonstrated ability to train, motivate, & counsel pre-professional dancers through a complete 8-year Vaganova-based syllabus, from ages 10 to 17.  Extremely effective at leveraging superior ballet teaching skill-sets -- including excellent technical skills and a rich performance background -- in order to prepare talented young dance artists for professional traineeships, apprenticeships, and company contracts. Proven ability to successfully choreograph large scale productions of 19th century classics -- including Sleeping Beauty, Giselle, & The Nutcracker -- while tailoring movement to a wide-range of pre-professional skill levels.  Outstanding ability to effectively communicate a pre-professional program's often rigorous goals to a wide range of constituents, including parents, dancers, and other directors.  An exemplary work history as well as an exemplary academic record including an MBA in Arts Management.
 
-### Professional Experience
+<h3>Professional Experience</h3>
 
 - Ballet Master Pre-Professional Division, Ballet Conservatory of Asheville, Asheville, NC, 2009 to 2016.  Co-founder and Ballet Master of professional ballet school, driving the Pre-Professional division from 0 to 54 dancers and the school to over 400 students.  Trained pre-professional dancers from ages 10 to 17 using the Vaganova-based curriculum.  Students were successfully placed in some of the most prestigious summer and year-round programs, including School of American Ballet, American Ballet Theatre (NY), San Francisco Ballet, and Kirov Academy of Ballet. 
 
@@ -67,7 +65,7 @@ Performing Experience & Training
 
 - Scholarship Student, Orlando Ballet School (formerly School of Southern Ballet Theatre), Orlando, FL.  Scholarship student at Orlando Ballet School for three years.
 
-### Education
+<h3>Education</h3>
 
 Master of Business Administration in Arts Management, Golden Gate University, San Francisco, CA
 
@@ -77,7 +75,7 @@ Vaganova Syllabus Training Years 1-5, John White, Bryn Mawr, PA
 
 Ruth Petrinovic Ballet Teacher Training, Ft. Lauderdale, FL
 
-## Choreography
+<h2>Choreography</h3>
 
 > [Download](https://wayneburrittdance.com/wayne-burritt-choreography.pdf)
 

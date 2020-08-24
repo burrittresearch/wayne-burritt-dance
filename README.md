@@ -196,18 +196,18 @@ Music by Claude Debussy.  Costumes by Sue Stroke.  First presented by Florida Da
 Classical Ballet, 6 minutes
 Music by Delibes, Tchaikovsky, Helsted, and Paulli.  First presented by Florida Dance Conservatory on June 16, 1995 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Elizabeth Jenkins, Jacqueline Nesci, Mandy Pearce, and Kristen Voss.  Co-choreographed with Kristin O’Neal.  
 
-- Symphony No. 3 (1995)
-Modern Dance, 32 minutes
+- Symphony No. 3 (1995) Modern Dance, 32 minutes
+
 Music by Henryk Gorecki.  Costume design by Sue Stroke.  Lighting design by Patrick Ryel.  First presented by Florida Dance Conservatory on June 16, 1995 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Kristin O'Neal and Rachel Waldman.
 
-- Debussy Phrases for Men & Women (1995)
-- Modern Dance, 20 minutes
+- Debussy Phrases for Men & Women (1995) Modern Dance, 20 minutes
+
 Music by Claude Debussy.  Costumes by Sue Stroke.  First presented by Florida Dance Conservatory on February 3, 1995 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Dale Dewey, Kristin O'Neal, Patrick Ryel, and Rachel Waldman.  
 
-- Consolation No. 3 (1994)
-Contemporary Ballet, 5 minutes
+- Consolation No. 3 (1994) Contemporary Ballet, 5 minutes
+
 Music by Franz Liszt.  Costumes by Sue Stroke.  First presented by Florida Dance Conservatory on September 24, 1994 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Dale Dewey and Annie Turner.
 
-- Glances Forward & Back (1994)
-Contemporary Ballet, 4 minutes
+- Glances Forward & Back (1994) Contemporary Ballet, 4 minutes
+
 Music by Tony Bennett.  Costumes by Sue Stroke.  First presented by Florida Dance Conservatory on September 24, 1994 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Dale Dewey and Ashley Stroke.

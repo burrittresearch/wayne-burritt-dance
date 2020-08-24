@@ -34,7 +34,11 @@ Wayne makes his home in Johnson City, TN with his wife Debi.
 
 ## [Resume](https://github.com/burrittresearch/wayne-burritt-dance/blob/master/wayne-burritt-resume.pdf)
 
-### QUALIFICATIONS SUMMARY
+## Resume
+
+> [Download](https://wayneburrittdance.com/wayne-burritt-resume.pdf)
+
+### Qualifications Summary
 
 Results-driven ballet master, teacher, & choreographer with demonstrated ability to train, motivate, & counsel pre-professional dancers through a complete 8-year Vaganova-based syllabus, from ages 10 to 17.  Extremely effective at leveraging superior ballet teaching skill-sets -- including excellent technical skills and a rich performance background -- in order to prepare talented young dance artists for professional traineeships, apprenticeships, and company contracts. Proven ability to successfully choreograph large scale productions of 19th century classics -- including Sleeping Beauty, Giselle, & The Nutcracker -- while tailoring movement to a wide-range of pre-professional skill levels.  Outstanding ability to effectively communicate a pre-professional program's often rigorous goals to a wide range of constituents, including parents, dancers, and other directors.  An exemplary work history as well as an exemplary academic record including an MBA in Arts Management.
 
@@ -71,7 +75,9 @@ Vaganova Syllabus Training Years 1-5, John White, Bryn Mawr, PA
 
 Ruth Petrinovic Ballet Teacher Training, Ft. Lauderdale, FL
 
-## [Choreography](https://github.com/burrittresearch/wayne-burritt-dance/blob/master/wayne-burritt-choreography.pdf)
+## Choreography
+
+> [Download](https://wayneburrittdance.com/wayne-burritt-choreography.pdf)
 
 - A Midsummer Night’s Dream (2015)
 Classical Ballet, 1 hour

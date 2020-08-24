@@ -167,47 +167,24 @@ Music by Antonio Vivaldi.  Modern Dance, 10 minutes.  First presented by Corps C
 Modern Dance, 6 minutes
 Music by Cassandra Wilson.  Costume and lighting design by Wayne Burritt.  First presented by Corps Chameleon Dance Company on November 14, 1997 at Susan Lyle Studios, West Palm Beach, Florida.  With Melissa Waters as the soloist.
 
-- Archaic (1997)
-Modern Dance, 6 minutes
-Music by Jan Garbarek.  Costume and lighting design by Wayne Burritt.  First presented by Corps Chameleon Dance Company on May 23, 1997 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Patricia Fridrichova and Angela McDonough.
+- Archaic (1997) Modern Dance, 6 minutes Music by Jan Garbarek.  Costume and lighting design by Wayne Burritt.  First presented by Corps Chameleon Dance Company on May 23, 1997 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Patricia Fridrichova and Angela McDonough.
 
-- Dances for Piano and Orchestra (1996) 
-Classical Ballet, 8 minutes
-Music by Samuel Barber and Wolfgang Amadeus Mozart.  Costume and lighting design by Wayne Burritt.  First presented by Florida Dance Conservatory Ballet Company on August 3, 1996 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Melanie Cruz, Angela McDonough, Betheny Merola, Tara Morrone, Debbie Schocoff, Ashley Thames, Annie Turner, and Heather Williams.  Co-choreographed with Kim Khachatrian. 
+- Dances for Piano and Orchestra (1996) Classical Ballet, 8 minutes Music by Samuel Barber and Wolfgang Amadeus Mozart.  Costume and lighting design by Wayne Burritt.  First presented by Florida Dance Conservatory Ballet Company on August 3, 1996 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Melanie Cruz, Angela McDonough, Betheny Merola, Tara Morrone, Debbie Schocoff, Ashley Thames, Annie Turner, and Heather Williams.  Co-choreographed with Kim Khachatrian. 
 
-- Five Women (1996)
-Contemporary Ballet, 10 minutes
-Music by John Cage.  Costume design by Sue Stroke.  Lighting design by Wayne Burritt.  First presented by Florida Dance Conservatory Ballet Company on June 1, 1996 at the Kaplan Jewish Community Center, West Palm Beach, Florida.  With Betheny Merola, Alicia Mullenix, Jacqueline Nesci, Annie Turner, and Melissa Waters.
+- Five Women (1996) Contemporary Ballet, 10 minutes Music by John Cage.  Costume design by Sue Stroke.  Lighting design by Wayne Burritt.  First presented by Florida Dance Conservatory Ballet Company on June 1, 1996 at the Kaplan Jewish Community Center, West Palm Beach, Florida.  With Betheny Merola, Alicia Mullenix, Jacqueline Nesci, Annie Turner, and Melissa Waters.
 
-- Water (1996)
-Modern Dance, 20 minutes
-Presented at the 1997 Florida Dance Festival and 2000 Duncan Theatre Dances
-Music by Arvo Pärt.  Costume and lighting design by Wayne Burritt.  First presented by Florida Dance Conservatory on March 1, 1996 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With dancers Rassika Bourgi, Patricia Fridrichova, Kristin O’Neal, and Patrick Ryel.
+- Water (1996) Modern Dance, 20 minutes Presented at the 1997 Florida Dance Festival and 2000 Duncan Theatre Dances Music by Arvo Pärt.  Costume and lighting design by Wayne Burritt.  First presented by Florida Dance Conservatory on March 1, 1996 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With dancers Rassika Bourgi, Patricia Fridrichova, Kristin O’Neal, and Patrick Ryel.
 
-- Garden Festival (1996)
-Classical Ballet, 15 Minutes
-Music by Giuseppe Verdi.  Costume design by Sue Stroke.  Lighting design by Wayne Burritt.  First presented by Florida Dance Conservatory on March 1, 1996 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Betheny Merola, Jacqueline Nesci, Annie Turner, and Melissa Waters as the soloists.
+- Garden Festival (1996) Classical Ballet, 15 Minutes Music by Giuseppe Verdi.  Costume design by Sue Stroke.  Lighting design by Wayne Burritt.  First presented by Florida Dance Conservatory on March 1, 1996 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Betheny Merola, Jacqueline Nesci, Annie Turner, and Melissa Waters as the soloists.
 
-- Debussy Trio (1995)
-Classical Ballet, 11 minutes
-Music by Claude Debussy.  Costumes by Sue Stroke.  First presented by Florida Dance Conservatory on June 16, 1995 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Dale Dewey, Ashley Stroke, and Annie Turner.
+- Debussy Trio (1995) Classical Ballet, 11 minutes Music by Claude Debussy.  Costumes by Sue Stroke.  First presented by Florida Dance Conservatory on June 16, 1995 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Dale Dewey, Ashley Stroke, and Annie Turner.
 
-- La Classe des Images (1995) 
-Classical Ballet, 6 minutes
-Music by Delibes, Tchaikovsky, Helsted, and Paulli.  First presented by Florida Dance Conservatory on June 16, 1995 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Elizabeth Jenkins, Jacqueline Nesci, Mandy Pearce, and Kristen Voss.  Co-choreographed with Kristin O’Neal.  
+- La Classe des Images (1995) Classical Ballet, 6 minutes Music by Delibes, Tchaikovsky, Helsted, and Paulli.  First presented by Florida Dance Conservatory on June 16, 1995 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Elizabeth Jenkins, Jacqueline Nesci, Mandy Pearce, and Kristen Voss.  Co-choreographed with Kristin O’Neal.  
 
-- Symphony No. 3 (1995) Modern Dance, 32 minutes
+- Symphony No. 3 (1995) Modern Dance, 32 minutes Music by Henryk Gorecki.  Costume design by Sue Stroke.  Lighting design by Patrick Ryel.  First presented by Florida Dance Conservatory on June 16, 1995 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Kristin O'Neal and Rachel Waldman.
 
-Music by Henryk Gorecki.  Costume design by Sue Stroke.  Lighting design by Patrick Ryel.  First presented by Florida Dance Conservatory on June 16, 1995 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Kristin O'Neal and Rachel Waldman.
+- Debussy Phrases for Men & Women (1995) Modern Dance, 20 minutes Music by Claude Debussy.  Costumes by Sue Stroke.  First presented by Florida Dance Conservatory on February 3, 1995 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Dale Dewey, Kristin O'Neal, Patrick Ryel, and Rachel Waldman.  
 
-- Debussy Phrases for Men & Women (1995) Modern Dance, 20 minutes
+- Consolation No. 3 (1994) Contemporary Ballet, 5 minutes Music by Franz Liszt.  Costumes by Sue Stroke.  First presented by Florida Dance Conservatory on September 24, 1994 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Dale Dewey and Annie Turner.
 
-Music by Claude Debussy.  Costumes by Sue Stroke.  First presented by Florida Dance Conservatory on February 3, 1995 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Dale Dewey, Kristin O'Neal, Patrick Ryel, and Rachel Waldman.  
-
-- Consolation No. 3 (1994) Contemporary Ballet, 5 minutes
-
-Music by Franz Liszt.  Costumes by Sue Stroke.  First presented by Florida Dance Conservatory on September 24, 1994 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Dale Dewey and Annie Turner.
-
-- Glances Forward & Back (1994) Contemporary Ballet, 4 minutes
-
-Music by Tony Bennett.  Costumes by Sue Stroke.  First presented by Florida Dance Conservatory on September 24, 1994 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Dale Dewey and Ashley Stroke.
+- Glances Forward & Back (1994) Contemporary Ballet, 4 minutes Music by Tony Bennett.  Costumes by Sue Stroke.  First presented by Florida Dance Conservatory on September 24, 1994 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Dale Dewey and Ashley Stroke.

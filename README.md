@@ -6,7 +6,9 @@ Hello! My name is Wayne Burritt and I am a ballet master and choreographer from 
 
 > [wayneburrittdance.com](https://wayneburrittdance.com)
 
-## Biography
+# Biography
+## Bio
+### Bio
 
 > [Download](https://wayneburrittdance.com/wayne-burritt-biography.pdf)
 

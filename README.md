@@ -75,7 +75,7 @@ Vaganova Syllabus Training Years 1-5, John White, Bryn Mawr, PA
 
 Ruth Petrinovic Ballet Teacher Training, Ft. Lauderdale, FL
 
-<h2>Choreography</h3>
+<h2>Choreography</h2>
 
 > [Download](https://wayneburrittdance.com/wayne-burritt-choreography.pdf)
 

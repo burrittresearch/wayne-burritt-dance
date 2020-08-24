@@ -4,6 +4,8 @@ Hello! My name is Wayne Burritt and I am a ballet master and choreographer from 
 
 > [info@wayneburrittdance.com](mailto:info@wayneburrittdance.com?subject=Info)
 
+> [wayneburrittdance.com](https://wayneburrittdance.com)
+
 ## Biography
 
 > [Download](https://wayneburrittdance.com/wayne-burritt-biography.pdf)

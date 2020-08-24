@@ -1,4 +1,5 @@
-<h1>Welcome to WayneBurrittDance.com!</h1>
+Welcome to WayneBurrittDance.com!
+===
 
 Hello! My name is Wayne Burritt and I am a ballet master and choreographer from Johnson City, TN. Please feel free to take a look at my biography, resume, and list of choreorgraphy. If you need a ballet teacher or have any questions, don't hesitate to get in touch!
 
@@ -6,7 +7,8 @@ Hello! My name is Wayne Burritt and I am a ballet master and choreographer from 
 
 > [wayneburrittdance.com](https://wayneburrittdance.com)
 
-<h2>Biography</h2>sss
+Biography
+---
 
 > [Download](https://wayneburrittdance.com/wayne-burritt-biography.pdf)
 

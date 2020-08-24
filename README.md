@@ -4,7 +4,9 @@ Hello! My name is Wayne Burritt and I am a ballet master and choreographer from 
 
 > [info@wayneburrittdance.com](mailto:info@wayneburrittdance.com?subject=Info)
 
-## [Biography](https://github.com/burrittresearch/wayne-burritt-dance/wayne-burritt-biography.pdf)
+## Biography
+
+> [Download](https://wayneburrittdance.com/wayne-burritt-biography.pdf)
 
 Wayne began training at age 12 in Miami, Florida as a ballroom dancer and eventually earned a scholarship to the Orlando Ballet School (formerly Southern Ballet Theatre) in Orlando, Florida. For SBT he danced a variety of classical and modern roles for the School as well as serving as company manager and financial controller. In 1985 he married his wife Debi and enrolled in the School of San Francisco Ballet, continuing his studies with some of the finest teachers in the country. Wayne also took time to earn his MBA in Arts Management in 1987. He moved to Naples, Florida shortly thereafter and joined Naples Ballet Theatre, where Artistic Director Kim Salgat created a number of roles for him in contemporary and classical works. In 1991, Wayne joined the critically acclaimed Demetrius Klein Dance Company and rose to the position of Assistant Artistic Director before retiring from the stage in 1993.
 

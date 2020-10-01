@@ -1,0 +1,329 @@
+Create a dynamic web page which generates student grade sheet using VBScript
+
+In this practical, three files have been created. Note that here external style sheet "table.css" is used 
+
+in marksheet.asp file.
+
+marksheet.html
+
+<%@ language= vbscript %>
+
+<% option explicit %>
+
+<Html>
+
+<body>
+
+<form method=post action="marksheet.asp">
+
+<b><center><font color=red size=4>Enter Following Detail
+
+</font></b>
+
+<hr>
+
+<table border=1 align=center>
+
+<tr>
+
+<td>Student Name</td>
+
+<td><input type=text name=sn placeholder = "Full 
+
+Name"></></td>
+
+</tr>
+
+<tr>
+
+<td>Enrollment No.</td>
+
+<td><input type=text name=en placeholder=" Enrollment 
+
+Number "></></td>
+
+</tr>
+
+<tr>
+
+<td>Institute</td>
+
+<td><input type=text name=inst size=30 placeholder =
+
+"College Name"></></td>
+
+</tr>
+
+</table>
+
+<table border=1 align=center>
+
+<CAPTION ALIGN="BOTTOM">*marks less than 70<CAPTION>
+
+<tr>
+
+<th>Subject Name</td>
+
+<th>Marks</td>
+
+</tr>
+
+<tr>
+
+<td>INFORMATION COMMUNICATION
+
+TECHNOLOGY</td>
+
+<td><input type=text name=ict size=7></td>
+
+</tr>
+
+<tr>
+
+<td>OBJECT ORIENTED PROGRAMMING</td>
+
+<td><input type=text name=oop size=7></td>
+
+</tr>
+
+<tr>
+
+<td>FUNDAMENTALS OF SOFTWARE
+
+DEVELOPMENT</td>
+
+<td><input type=text name=fosd size=7></td>
+</tr>
+
+<tr>
+<td>INTERNET TECHNOLOGY</td> 
+
+<td><input type=text name=it size=7></td>
+
+</tr>
+
+<tr>
+
+<td>DATA MANAGEMENT</td>
+
+<td><input type=text name=dm size=7></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><input type=submit value=submit></td>
+
+</tr>
+
+</table>
+
+</form>
+
+</body>
+
+</html>
+
+marksheet.asp
+
+<html>
+
+<head>
+
+<TITLE>Grade Sheet</TITLE>
+
+<LINK REL="STYLESHEET" HREF="table.css">
+
+</head>
+
+<% dim total, a, b, c, d, e, name, no, per, cl 
+
+a=request ("ict")
+
+b=request ("oop")
+
+c=request ("fosd")
+
+d=request ("it")
+
+e=request ("dm")
+
+name=request("sn")
+
+no=request("en")
+
+cl=request("inst")
+
+%>
+
+<% total=a + 0 + b + c + 0 + d + 0 + e + 0 + f %>
+
+<h1> GUJARAT TECHNOLOGICAL UNIVERSITY </h1>
+
+<p>
+
+Name : <%= name %>
+
+<br>
+
+Enrollment Number : <%= no%>
+
+<br> Institute : <%= cl%> </p> <hr>
+
+<table border=1 align=center>
+
+<tr>
+
+<th>Subject Name</th>
+
+<th>Subject Code</th>
+
+<th>Marks</th>
+
+</tr>
+
+<tr>
+
+<td>INFORMATION COMMUNICATION TECHNOLOGY</td>
+
+<td>3341601</td>
+
+<td><%= a%></td>
+
+</tr>
+
+<tr>
+
+<td>OBJECT ORIENTED PROGRAMMING</td>
+<td>OBJECT ORIENTED PROGRAMMING</td>
+
+<td>3341602</td>
+
+<td><%= b%></td>ki
+</tr>
+
+<tr>
+
+<td>FUNDAMENTALS OF SOFTWARE DEVELOPMENT</td>
+
+<td>3341603</td>
+
+<td><%= c%></td>
+
+</tr>
+
+<tr>
+
+<td>INTERNET TECHNOLOGY</td> 
+
+<td>3341604</td>
+
+<td><%= d%></td>
+
+</tr>
+
+<tr>
+
+<td>DATA MANAGEMENT</td>
+
+<td>3341605</td>
+
+<td><%= e%></td>
+
+</tr>
+
+<tr>
+
+<td colspan=2 align=right><b>Total</b></td>
+
+<td><%= total%></td>
+
+</tr>
+
+</table>
+
+<center>
+
+<Hr><b>
+
+<% per= (total * 100)\350
+
+response.write "Percentage "
+
+response.write per%>
+
+</b><Hr>
+
+<% if per >= 70 then
+
+ response.write "Congratulations You got First Class 
+
+with Distinction"
+
+ Elseif per >= 60 and per < 70 then
+
+response.write "Congratulations You got First Class"
+
+ Elseif per >= 50 and per < 60 then
+
+response.write "You got Second Class"
+
+ Elseif per >= 35 and per < 50 then
+
+response.write "You got Pass Class"
+
+ Else 
+
+response.write "Sorry you are Fail"
+
+ End if 
+
+%>
+
+table.css
+
+table, td, th
+
+{
+
+border:1px solid green;
+
+}
+
+td
+
+{
+
+text-align:center;
+
+}
+
+th
+
+{
+
+background-color:green;background-color:green;
+
+h1
+
+{
+
+text-shadow: 5px 5px 5px #FF0000;text-align:center;
+
+} 
+
+p
+
+{
+
+outline-style:groove;
+
+outline-color:red;
+
+font-family:"Times New Roman",Georgia,Serif;
+
+text-align:center;
+
+font-weight:bold;color:white; se

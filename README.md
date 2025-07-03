@@ -41,30 +41,24 @@ Wayne makes his home in Naples, FL with his wife Debi.
 
 ### Qualifications Summary
 
-Results-driven ballet master, teacher, & choreographer with demonstrated ability to train, motivate, & counsel pre-professional dancers through a complete 8-year Vaganova-based syllabus, from ages 10 to 17.  Extremely effective at leveraging superior ballet teaching skill-sets -- including excellent technical skills and a rich performance background -- in order to prepare talented young dance artists for professional traineeships, apprenticeships, and company contracts. Proven ability to successfully choreograph large scale productions of 19th century classics -- including Sleeping Beauty, Giselle, & The Nutcracker -- while tailoring movement to a wide-range of pre-professional skill levels.  Outstanding ability to effectively communicate a pre-professional program's often rigorous goals to a wide range of constituents, including parents, dancers, and other directors.  An exemplary work history as well as an exemplary academic record including an MBA in Arts Management.
+Classically trained ballet educator with over 25 years teaching and choreographing pre‑professional dancers (ages 10–17) in the Vaganova method. Students have advanced to professional companies including American Ballet Theatre, Finnish National Ballet, Ballet Tucson, and Carolina Ballet. Others have trained at School of American Ballet, San Francisco Ballet School, and The Royal Ballet School, and enrolled in university programs at Indiana, Butler, and University of Oklahoma. Choreographed large scale productions of 19th century classics -- including Sleeping Beauty, Giselle, and The Nutcracker – as well as contemporary works. MBA in Arts Management with a deep commitment to nurturing artistry and technical excellence.
 
 ### Professional Experience
 
-- Ballet Master Pre-Professional Division, Ballet Conservatory of Asheville, Asheville, NC, 2009 to 2016.  Co-founder and Ballet Master of professional ballet school, driving the Pre-Professional division from 0 to 54 dancers and the school to over 400 students.  Trained pre-professional dancers from ages 10 to 17 using the Vaganova-based curriculum.  Students were successfully placed in some of the most prestigious summer and year-round programs, including School of American Ballet, American Ballet Theatre (NY), San Francisco Ballet, and Kirov Academy of Ballet. 
+-	Ballet Master, Jonesborough, TN, 2016 to 2025. Ballet master to Kingsport Ballet, Bristol Ballet, Central Ballet School, and Johnson City Arts Center. Trained advanced students using the Vaganova-based curriculum. 
+-	Ballet Master, Pre-Professional Division, Ballet Conservatory of Asheville, Asheville, NC, 2009 to 2016.  Co-founder and Ballet Master of -professional ballet school, driving the pre-Professional division from 0 to 54 dancers and the school to over 400 students.  Trained pre-professional dancers from ages 10 to 17 using the Vaganova-based curriculum.
+- 	Ballet Master, Angie’s Dance Academy, Clyde, NC, 2007 to 2009.  Ballet Master for large studio with over 400 students.  Directed pre-professional ballet program.  
+- 	Ballet Master, Asheville Ballet, Asheville, NC, 2005 to 2007.  Ballet Master for ballet school.  Taught and coached pre-professional ballet dancers.
+- 	Founding Director / Resident Choreographer, Millennium Dance Syndicate, Fort Lauderdale, FL, 1998 to 2005.  Founding director, resident choreographer and lighting designer for professional dance company producing high quality dance concerts in venues throughout South FL.  
+- 	Ballet Department Chair, Dance 10, Jupiter, FL 1997 to 1999. Chaired ballet department for large studio with over 500 students and directed pre-professional ballet program. 
+- 	Founding Director / Ballet Master, Florida Dance Conservatory, West Palm Beach, FL, 1994 to 1997. Founded and directed professional school and company. Directed pre-professional training program for classical and modern dancers. Responsible for all major aspects of the organization's operations.
 
-- Ballet Master, Angie’s Dance Academy, Clyde, NC, 2007 to 2009.  Ballet Master for large studio with over 400 students.  Directed pre-professional ballet program.  
 
-- Ballet Master, Asheville Ballet, Asheville, NC, 2005 to 2007.  Ballet Master for ballet school.  Taught and coached pre-professional ballet dancers.
-
-- Founding Director / Resident Choreographer, Millennium Dance Syndicate, Fort Lauderdale, FL, 1998 to 2005.  Founding director, resident choreographer and lighting designer for professional dance company producing high quality dance concerts in venues throughout South FL.  
-
-- Ballet Department Chair, Dance 10, Jupiter, FL 1997 to 1999. Chaired ballet department for large studio with over 500 students and directed pre-professional ballet program. 
-
-- Founding Director / Ballet Master, FL Dance Conservatory, West Palm Beach, FL, 1994 to 97. Founded and directed professional school and company. Directed pre-professional training program for highly-talented classical and modern dancers. Responsible for all major aspects of the organization's operations.
-Performing Experience & Training
-
-- Company Dancer, Demetrius Klein Dance Company, FL.  Roles included Foreigner, Le Sacre Du Printemps, and Messiah, among others.
-
-- Soloist, Naples Ballet Theatre, Naples, FL.  Roles included Sleeping Beauty, Spirits of the Forest, and a variety of contemporary roles.  
-
-- Student, San Francisco Ballet School, San Francisco, CA.  Trained for two years while working on Master’s degree.
-
-- Scholarship Student, Orlando Ballet School (formerly School of Southern Ballet Theatre), Orlando, FL.  Scholarship student at Orlando Ballet School for three years.
+### Performing Experience & Training
+- 	Company Dancer, Demetrius Klein Dance Company, FL.  Roles included Foreigner, Le Sacre Du Printemps, and Messiah, among others.
+- 	Soloist, Naples Ballet Theatre, Naples, FL.  Roles included Sleeping Beauty, Spirits of the Forest, and a variety of contemporary roles.  
+- 	Student, San Francisco Ballet School, San Francisco, CA.  Trained for two years while working on MBA.
+- 	Scholarship Student, Orlando Ballet School (formerly School of Southern Ballet Theatre), Orlando, FL.  Scholarship student at Orlando Ballet School for three years.
 
 ### Education
 

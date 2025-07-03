@@ -62,13 +62,10 @@ Classically trained ballet educator with over 25 years teaching and choreographi
 
 ### Education
 
-Master of Business Administration in Arts Management, Golden Gate University, San Francisco, CA
-
-Bachelor of Arts, Indiana University, Bloomington, IN
-
-Vaganova Syllabus Training Years 1-5, John White, Bryn Mawr, PA
-
-Ruth Petrinovic Ballet Teacher Training, Ft. Lauderdale, FL
+- 	Master of Business Administration in Arts Management, Golden Gate University, San Francisco, CA
+- 	Bachelor of Arts, Indiana University, Bloomington, IN
+- 	Vaganova Syllabus Training Years 1-5, John White, Bryn Mawr, PA
+- 	Ruth Petrinovic Ballet Teacher Training, Ft. Lauderdale, FL
 
 ## Choreography
 

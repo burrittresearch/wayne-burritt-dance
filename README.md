@@ -5,8 +5,11 @@ Hello! My name is Wayne Burritt and I am a ballet master and choreographer from 
 <img src="wayne-burritt-pic.jpg">
 
 > 828-699-0590
+
 > Naples, FL
-> [wayne@wayneburrittdance.com](mailto:wayne@wayneburrittdance.com?subject=Info)  
+
+> [wayne@wayneburrittdance.com](mailto:wayne@wayneburrittdance.com?subject=Info)
+  
 > [wayneburrittdance.com](https://wayneburrittdance.com)  
 
 ## Biography

@@ -25,12 +25,12 @@ Wayne makes his home in Naples, FL with his wife Debi.
 
 > [Download](https://wayneburrittdance.com/wayne-burritt-resume.pdf)
 
-
-### Wayne Burritt
-
-### Ballet Master | Choreographer | Vaganova Specialist
-
+## Wayne Burritt
+## Ballet Master | Choreographer | Vaganova Specialist
 ***
+828-699-0590 Naples, FL
+[wayne@wayneburrittdance.com](mailto:wayne@wayneburrittdance.com?subject=Info)  
+[wayneburrittdance.com](https://wayneburrittdance.com)  
 
 Classically trained ballet educator with over 25 years teaching and choreographing pre‑professional dancers (ages 10–17) in the Vaganova method. Students have advanced to professional companies including American Ballet Theatre, Finnish National Ballet, Ballet Tucson, and Carolina Ballet. Others have trained at School of American Ballet, San Francisco Ballet School, and The Royal Ballet School, and enrolled in university programs at Indiana, Butler, and University of Oklahoma. Choreographed large scale productions of 19th century classics -- including Sleeping Beauty, Giselle, and The Nutcracker – as well as contemporary works. MBA in Arts Management with a deep commitment to nurturing artistry and technical excellence.
 

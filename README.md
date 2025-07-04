@@ -23,6 +23,9 @@ Wayne makes his home in Naples, FL with his wife Debi.
 
 ## Resume
 
+
+
+
 > [Download](https://wayneburrittdance.com/wayne-burritt-resume.pdf)
 
 ### Wayne Burritt

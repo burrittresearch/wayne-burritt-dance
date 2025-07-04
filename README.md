@@ -26,8 +26,16 @@ Wayne makes his home in Naples, FL with his wife Debi.
 > [Download](https://wayneburrittdance.com/wayne-burritt-resume.pdf)
 
 ### Wayne Burritt
+
+
+
+
 ### Ballet Master | Choreographer | Vaganova Specialist
-***
+
+
+
+
+
 
 828-699-0590
 

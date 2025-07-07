@@ -1,5 +1,4 @@
-# WAYNE BURRITT<br>
-# Ballet Master | Choreographer | Vaganova Specialist
+# WAYNE BURRITT | Ballet Master • Choreographer • Vaganova Specialist
 
 <img src="wayne-burritt-pic.jpg">
 

@@ -1,8 +1,9 @@
-# Welcome to WayneBurrittDance.com!
-
-Hello! My name is Wayne Burritt and I am a ballet master and choreographer from Naples, FL. Please feel free to take a look at my biography, resume, and list of choreorgraphy. If you need a ballet teacher or have any questions, don't hesitate to get in touch!
+# WAYNE BURRITT
+# Ballet Master | Choreographer | Vaganova Specialist
 
 <img src="wayne-burritt-pic.jpg">
+
+## CONTACT
 
 > 828-699-0590
 >
@@ -12,7 +13,7 @@ Hello! My name is Wayne Burritt and I am a ballet master and choreographer from 
 >
 > [wayneburrittdance.com](https://wayneburrittdance.com)  
 
-## Biography
+## BIOGRAPHY
 
 > [Download](https://wayneburrittdance.com/wayne-burritt-biography.pdf)
 
@@ -26,7 +27,7 @@ Wayne successfully completed the entire Vaganova Teacher Training Program (Years
 
 Wayne makes his home in Naples, FL with his wife Debi.
 
-## Resume
+## RESUME
 
 > [Download](https://wayneburrittdance.com/wayne-burritt-resume.pdf)
 
@@ -56,7 +57,7 @@ Classically trained ballet educator with over 25 years teaching and choreographi
 - 	Vaganova Syllabus Training Years 1-5, John White, Bryn Mawr, PA
 - 	Ruth Petrinovic Ballet Teacher Training, Ft. Lauderdale, FL
 
-## Choreography
+## CHOREOGRAPHY
 
 > [Download](https://wayneburrittdance.com/wayne-burritt-choreography.pdf)
 

@@ -23,6 +23,28 @@ Wayne successfully completed the entire Vaganova Teacher Training Program (Years
 
 Wayne makes his home in Naples, FL with his wife Debi.
 
+## TESTIMONIALS
+
+*Wayne Burritt offers the world of professional dancers, and people taking their very first dance classes, the opportunity of a lifetime. Wayne is the epitome of a professional.*
+
+Donna
+
+*Wayne has the ability to push each student beyond what she may believe her limits are, whether beginning or advanced, seeing in each individual dancer the possibilities that the dancer herself may not.*
+
+Andrea
+
+*Through his patient, gifted teaching and personal love of the dance, Wayne has shared and inspired my daughter to the wondrous possibilities of Ballet.*
+
+Leslie
+
+*Wayne's knowledge of ballet and the way he so eloquently teaches is vast and wonderful.  He is devoted to his work and his students.  The passion he has to teach others about the wonderful world of ballet is so evident and heartfelt.  Wayne truly is an exceptional ballet teacher and colleague.*
+
+Angel
+
+*Wayne is an excellent ballet teacher. He recognizes each students strengths and pushes them to reach their fullest potential. His passion for ballet is contagious to those around them.*
+
+Loretta
+
 ## RESUME
 
 > [Download](https://wayneburrittdance.com/wayne-burritt-resume.pdf 'Download Resume')

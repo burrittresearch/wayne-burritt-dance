@@ -8,6 +8,8 @@
 > 828-699-0590<br>
 > Naples, FL<br>
 > [wayne@wayneburrittdance.com](mailto:wayne@wayneburrittdance.com?subject=Info 'Email wayne@wayneburrittdance.com')<br>
+> [wayneburrittdance.com](https://wayneburrittdance.com'wayneburrittdance.com')
+
 
 ## BIOGRAPHY
 

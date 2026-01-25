@@ -95,7 +95,7 @@ Student Placement Highlights
 - 	Ruth Petrinovic Ballet Teacher Training, Ft. Lauderdale, FL
 -	Ballet training: San Francisco Ballet School and Orlando Ballet School
 
-## CHOREOGRAPHY
+## CHOREOGRAPHYssssssss
 
 > [Download](https://wayneburrittdance.com/wayne-burritt-choreography.pdf 'Download Choreography')
 

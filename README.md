@@ -56,38 +56,31 @@ Classically trained ballet master with 25+ years teaching and choreographing pre
 ### Professional Experience
 
 Ballet Master | Naples, FL | 2025–Present
-•	Taught ballet, pointe, and variations for Elite Dance Center, Naples Ballet, and SWFL Ballet.
-•	Trained pre-professional students using the Vaganova-based curriculum.
+-	Taught ballet, pointe, and variations for Elite Dance Center, Naples Ballet, and SWFL Ballet.
+-	Trained pre-professional students using the Vaganova-based curriculum.
 Ballet Master | Jonesborough, TN | 2021–2025
-•	Taught ballet, pointe, and variations for Kingsport Ballet, Bristol Ballet, Central Ballet School, and Johnson City Arts Center.
-•	Prepared advanced students for summer intensive auditions and placement using the Vaganova-based curriculum.
+-	Taught ballet, pointe, and variations for Kingsport Ballet, Bristol Ballet, Central Ballet School, and Johnson City Arts Center.
+-	Prepared advanced students for summer intensive auditions and placement using the Vaganova-based curriculum.
 Ballet Master | Ballet Conservatory of Asheville, Asheville, NC | 2009–2016
-•	Co-founded and built the pre-Professional program from 0 to 54 dancers; school grew to 400+ students. Taught Vaganova-based curriculum across 4 training tracks (ages 10–17).
-•	Taught Vaganova-based technique across 4 training tracks (ages 10–17) including ballet, pointe, men's class, and variations.
+-	Co-founded and built the pre-Professional program from 0 to 54 dancers; school grew to 400+ students. Taught Vaganova-based curriculum across 4 training tracks (ages 10–17).
+-	Taught Vaganova-based technique across 4 training tracks (ages 10–17) including ballet, pointe, men's class, and variations.
 
-Choreography Highlights
-•	Choreographed Nutcracker, Giselle, Coppelia, La Fille Mal Gardee, Sleeping Beauty, Swan Lake, a Midsummer Night's Dream, and original contemporary works.
+### Choreography Highlights
+
+-	Choreographed Nutcracker, Giselle, Coppelia, La Fille Mal Gardee, Sleeping Beauty, Swan Lake, a Midsummer Night's Dream, and original contemporary works.
 Student Placement Highlights
-•	Pre-professional: Placed students into ABT JKO School, School of American Ballet, San Francisco Ballet School, Boston Ballet School, Miami City Ballet School, and Royal Ballet School.
-•	Collegiate: Placed students into Indiana University, Butler University, University of Oklahoma, University of Utah, Florida State University, and NYU Tisch.
-•	Professional: Placed students into American Ballet Theatre, Finnish National Ballet, Kansas City Ballet, Ballet Tucson, Carolina Ballet, Charlotte Ballet, and Nashville Ballet.
-Performing Experience
-•	Company Dancer | Demetrius Klein Dance Company | Lake Worth, FL
-•	Soloist | Naples Ballet Theatre | Naples, FL  
-
--	Ballet Master, Jonesborough, TN, 2016 to 2025. Ballet master to Kingsport Ballet, Bristol Ballet, Central Ballet School, and Johnson City Arts Center. Trained advanced students using the Vaganova-based curriculum. 
--	Ballet Master, Pre-Professional Division, Ballet Conservatory of Asheville, Asheville, NC, 2009 to 2016.  Co-founder and Ballet Master of -professional ballet school, driving the pre-Professional division from 0 to 54 dancers and the school to over 400 students.  Trained pre-professional dancers from ages 10 to 17 using the Vaganova-based curriculum.
-- 	Ballet Master, Angie’s Dance Academy, Clyde, NC, 2007 to 2009.  Ballet Master for large studio with over 400 students.  Directed pre-professional ballet program.  
-- 	Ballet Master, Asheville Ballet, Asheville, NC, 2005 to 2007.  Ballet Master for ballet school.  Taught and coached pre-professional ballet dancers.
-- 	Founding Director / Resident Choreographer, Millennium Dance Syndicate, Fort Lauderdale, FL, 1998 to 2005.  Founding director, resident choreographer and lighting designer for professional dance company producing high quality dance concerts in venues throughout South FL.  
-- 	Ballet Department Chair, Dance 10, Jupiter, FL 1997 to 1999. Chaired ballet department for large studio with over 500 students and directed pre-professional ballet program. 
-- 	Founding Director / Ballet Master, Florida Dance Conservatory, West Palm Beach, FL, 1994 to 1997. Founded and directed professional school and company. Directed pre-professional training program for classical and modern dancers. Responsible for all major aspects of the organization's operations.
-
+-	Pre-professional: Placed students into ABT JKO School, School of American Ballet, San Francisco Ballet School, Boston Ballet School, Miami City Ballet School, and Royal Ballet School.
+-	Collegiate: Placed students into Indiana University, Butler University, University of Oklahoma, University of Utah, Florida State University, and NYU Tisch.
+-	Professional: Placed students into American Ballet Theatre, Finnish National Ballet, Kansas City Ballet, Ballet Tucson, Carolina Ballet, Charlotte Ballet, and Nashville Ballet.
 
 ### Performing Experience
-- 	•	Company Dancer | Demetrius Klein Dance Company | Lake Worth, FL
-•	Soloist | Naples Ballet Theatre | Naples, FL  
 
+-	Company Dancer | Demetrius Klein Dance Company | Lake Worth, FL
+-	Soloist | Naples Ballet Theatre | Naples, FL  
+
+### Performing Experience
+- 	Company Dancer | Demetrius Klein Dance Company | Lake Worth, FL
+- 	Soloist | Naples Ballet Theatre | Naples, FL  
 
 ### Education
 
@@ -95,7 +88,7 @@ Performing Experience
 - 	Bachelor of Arts, Indiana University, Bloomington, IN
 - 	Vaganova Syllabus Training Years 1-5, John White, Bryn Mawr, PA
 - 	Ruth Petrinovic Ballet Teacher Training, Ft. Lauderdale, FL
-•	Ballet training: San Francisco Ballet School and Orlando Ballet School
+-	Ballet training: San Francisco Ballet School and Orlando Ballet School
 
 ## CHOREOGRAPHY
 

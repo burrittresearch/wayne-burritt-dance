@@ -1,5 +1,5 @@
 # WAYNE BURRITT
-# Ballet Master • Choreographer • Vaganova Specialist
+# Ballet Master • Vaganova Specialist • Choreographer
 
 <img src="wayne-burritt-pic.jpg">
 
@@ -64,8 +64,9 @@ Ballet Master | Jonesborough, TN | 2021–2025
 -	Prepared advanced students for summer intensive auditions and placement using the Vaganova-based curriculum.
 
 Ballet Master | Ballet Conservatory of Asheville, Asheville, NC | 2009–2016
--	Co-founded and built the pre-Professional program from 0 to 54 dancers; school grew to 400+ students. Taught Vaganova-based curriculum across 4 training tracks (ages 10–17).
--	Taught Vaganova-based technique across 4 training tracks (ages 10–17) including ballet, pointe, men's class, and variations.
+-	Co-founded and built the pre-professional program from 0 to 54 dancers while the school grew to 400+ students.
+-	Taught Vaganova-based technique across 4 pre-professional training levels for dancers ages 10–17. Classes included ballet, pointe, men's class, and variations.
+
 
 ### Choreography Highlights
 

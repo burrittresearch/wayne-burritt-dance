@@ -15,15 +15,15 @@
 
 > [Download](https://wayneburrittdance.com/wayne-burritt-biography.pdf 'Download Bio')
 
-Wayne studied at Orlando Ballet School and San Francisco Ballet.  He danced professionally for Naples Ballet Theatre and Demetrius Klein Dance Company. He taught professionally for Ballet Conservatory of Asheville, Kingsport Ballet, Bristol Ballet, and Florida Dance Conservatory, among others.
+Wayne studied at Orlando Ballet School and San Francisco Ballet.  He danced professionally for Naples Ballet Theatre and Demetrius Klein Dance Company. He taught professionally for Ballet Conservatory of Asheville, Elite Dance Center, Naples Ballet and Bristol Ballet among others.
 
-Wayne's students have advanced to professional companies including American Ballet Theatre, Finnish National Ballet, Ballet Tucson, and Carolina Ballet. Others have trained at School of American Ballet, San Francisco Ballet School, and The Royal Ballet School, and enrolled in university programs at Indiana, Butler, and University of Oklahoma.
+Wayne's students have advanced to professional companies including American Ballet Theatre, Finnish National Ballet, Ballet Tucson, and Carolina Ballet. Others have trained at School of American Ballet, San Francisco Ballet School, and The Royal Ballet School, and enrolled in university programs at Indiana, Butler, and University of Oklahoma. 
 
 Wayne has choreographed The Nutcracker, Giselle, Coppelia, La Fille Mal Gardee, Sleeping Beauty, Swan Lake, A Midsummer’s Night Dream and many other classical works. Wayne has also created numerous contemporary works.
 
 Wayne successfully completed the entire Vaganova Teacher Training Program (Years One through Five) directed by U.S. Vaganova expert John White as well as two-year Professional Ballet Teacher Training with nationally acclaimed pedagogue Ruth C. Petrinovic -- “the ballet teacher’s teacher.” He holds an MBA in Arts Management from Golden Gate University and a BA in English and Philosophy from Indiana University. 
-
 Wayne makes his home in Naples, FL with his wife Debi.
+
 
 ## TESTIMONIALS
 
@@ -51,9 +51,29 @@ Loretta
 
 > [Download](https://wayneburrittdance.com/wayne-burritt-resume.pdf 'Download Resume')
 
-Classically trained ballet educator with over 25 years teaching and choreographing pre‑professional dancers (ages 10–17) in the Vaganova method. Students have advanced to professional companies including American Ballet Theatre, Finnish National Ballet, Ballet Tucson, and Carolina Ballet. Others have trained at School of American Ballet, San Francisco Ballet School, and The Royal Ballet School, and enrolled in university programs at Indiana, Butler, and University of Oklahoma. Choreographed large scale productions of 19th century classics -- including Sleeping Beauty, Giselle, and The Nutcracker – as well as contemporary works. MBA in Arts Management with a deep commitment to nurturing artistry and technical excellence.
+Classically trained ballet master with 25+ years teaching and choreographing pre-professional dancers in the Vaganova method. Students have advanced to professional companies, trained at elite U.S. and international pre-professional schools, and enrolled in top collegiate ballet programs.
 
 ### Professional Experience
+
+Ballet Master | Naples, FL | 2025–Present
+•	Taught ballet, pointe, and variations for Elite Dance Center, Naples Ballet, and SWFL Ballet.
+•	Trained pre-professional students using the Vaganova-based curriculum.
+Ballet Master | Jonesborough, TN | 2021–2025
+•	Taught ballet, pointe, and variations for Kingsport Ballet, Bristol Ballet, Central Ballet School, and Johnson City Arts Center.
+•	Prepared advanced students for summer intensive auditions and placement using the Vaganova-based curriculum.
+Ballet Master | Ballet Conservatory of Asheville, Asheville, NC | 2009–2016
+•	Co-founded and built the pre-Professional program from 0 to 54 dancers; school grew to 400+ students. Taught Vaganova-based curriculum across 4 training tracks (ages 10–17).
+•	Taught Vaganova-based technique across 4 training tracks (ages 10–17) including ballet, pointe, men's class, and variations.
+
+Choreography Highlights
+•	Choreographed Nutcracker, Giselle, Coppelia, La Fille Mal Gardee, Sleeping Beauty, Swan Lake, a Midsummer Night's Dream, and original contemporary works.
+Student Placement Highlights
+•	Pre-professional: Placed students into ABT JKO School, School of American Ballet, San Francisco Ballet School, Boston Ballet School, Miami City Ballet School, and Royal Ballet School.
+•	Collegiate: Placed students into Indiana University, Butler University, University of Oklahoma, University of Utah, Florida State University, and NYU Tisch.
+•	Professional: Placed students into American Ballet Theatre, Finnish National Ballet, Kansas City Ballet, Ballet Tucson, Carolina Ballet, Charlotte Ballet, and Nashville Ballet.
+Performing Experience
+•	Company Dancer | Demetrius Klein Dance Company | Lake Worth, FL
+•	Soloist | Naples Ballet Theatre | Naples, FL  
 
 -	Ballet Master, Jonesborough, TN, 2016 to 2025. Ballet master to Kingsport Ballet, Bristol Ballet, Central Ballet School, and Johnson City Arts Center. Trained advanced students using the Vaganova-based curriculum. 
 -	Ballet Master, Pre-Professional Division, Ballet Conservatory of Asheville, Asheville, NC, 2009 to 2016.  Co-founder and Ballet Master of -professional ballet school, driving the pre-Professional division from 0 to 54 dancers and the school to over 400 students.  Trained pre-professional dancers from ages 10 to 17 using the Vaganova-based curriculum.
@@ -64,11 +84,10 @@ Classically trained ballet educator with over 25 years teaching and choreographi
 - 	Founding Director / Ballet Master, Florida Dance Conservatory, West Palm Beach, FL, 1994 to 1997. Founded and directed professional school and company. Directed pre-professional training program for classical and modern dancers. Responsible for all major aspects of the organization's operations.
 
 
-### Performing Experience & Training
-- 	Company Dancer, Demetrius Klein Dance Company, FL.  Roles included Foreigner, Le Sacre Du Printemps, and Messiah, among others.
-- 	Soloist, Naples Ballet Theatre, Naples, FL.  Roles included Sleeping Beauty, Spirits of the Forest, and a variety of contemporary roles.  
-- 	Student, San Francisco Ballet School, San Francisco, CA.  Trained for two years while working on MBA.
-- 	Scholarship Student, Orlando Ballet School (formerly School of Southern Ballet Theatre), Orlando, FL.  Scholarship student at Orlando Ballet School for three years.
+### Performing Experience
+- 	•	Company Dancer | Demetrius Klein Dance Company | Lake Worth, FL
+•	Soloist | Naples Ballet Theatre | Naples, FL  
+
 
 ### Education
 
@@ -76,6 +95,7 @@ Classically trained ballet educator with over 25 years teaching and choreographi
 - 	Bachelor of Arts, Indiana University, Bloomington, IN
 - 	Vaganova Syllabus Training Years 1-5, John White, Bryn Mawr, PA
 - 	Ruth Petrinovic Ballet Teacher Training, Ft. Lauderdale, FL
+•	Ballet training: San Francisco Ballet School and Orlando Ballet School
 
 ## CHOREOGRAPHY
 

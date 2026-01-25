@@ -56,11 +56,16 @@ Classically trained ballet master with 25+ years teaching and choreographing pre
 ### Professional Experience
 
 Ballet Master | Naples, FL | 2025–Present
+
 -	Taught ballet, pointe, and variations for Elite Dance Center, Naples Ballet, and SWFL Ballet.
+
 -	Trained pre-professional students using the Vaganova-based curriculum.
+
 Ballet Master | Jonesborough, TN | 2021–2025
+
 -	Taught ballet, pointe, and variations for Kingsport Ballet, Bristol Ballet, Central Ballet School, and Johnson City Arts Center.
 -	Prepared advanced students for summer intensive auditions and placement using the Vaganova-based curriculum.
+
 Ballet Master | Ballet Conservatory of Asheville, Asheville, NC | 2009–2016
 -	Co-founded and built the pre-Professional program from 0 to 54 dancers; school grew to 400+ students. Taught Vaganova-based curriculum across 4 training tracks (ages 10–17).
 -	Taught Vaganova-based technique across 4 training tracks (ages 10–17) including ballet, pointe, men's class, and variations.

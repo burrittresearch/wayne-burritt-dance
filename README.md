@@ -56,13 +56,10 @@ Classically trained ballet master with 25+ years teaching and choreographing pre
 ### Professional Experience
 
 Ballet Master | Naples, FL | 2025–Present
-
 -	Taught ballet, pointe, and variations for Elite Dance Center, Naples Ballet, and SWFL Ballet.
-
 -	Trained pre-professional students using the Vaganova-based curriculum.
 
 Ballet Master | Jonesborough, TN | 2021–2025
-
 -	Taught ballet, pointe, and variations for Kingsport Ballet, Bristol Ballet, Central Ballet School, and Johnson City Arts Center.
 -	Prepared advanced students for summer intensive auditions and placement using the Vaganova-based curriculum.
 
@@ -79,11 +76,6 @@ Student Placement Highlights
 -	Professional: Placed students into American Ballet Theatre, Finnish National Ballet, Kansas City Ballet, Ballet Tucson, Carolina Ballet, Charlotte Ballet, and Nashville Ballet.
 
 ### Performing Experience
-
--	Company Dancer | Demetrius Klein Dance Company | Lake Worth, FL
--	Soloist | Naples Ballet Theatre | Naples, FL  
-
-### Performing Experience
 - 	Company Dancer | Demetrius Klein Dance Company | Lake Worth, FL
 - 	Soloist | Naples Ballet Theatre | Naples, FL  
 
@@ -95,7 +87,7 @@ Student Placement Highlights
 - 	Ruth Petrinovic Ballet Teacher Training, Ft. Lauderdale, FL
 -	Ballet training: San Francisco Ballet School and Orlando Ballet School
 
-## CHOREOGRAPHYssssssss
+## CHOREOGRAPHY
 
 > [Download](https://wayneburrittdance.com/wayne-burritt-choreography.pdf 'Download Choreography')
 

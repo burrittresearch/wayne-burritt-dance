@@ -157,3 +157,7 @@ Student Placement Highlights
 - Consolation No. 3 (1994) Contemporary Ballet, 5 minutes Music by Franz Liszt.  Costumes by Sue Stroke.  First presented by Florida Dance Conservatory on September 24, 1994 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Dale Dewey and Annie Turner.
 
 - Glances Forward & Back (1994) Contemporary Ballet, 4 minutes Music by Tony Bennett.  Costumes by Sue Stroke.  First presented by Florida Dance Conservatory on September 24, 1994 at the Florida Dance Conservatory Performance Space, West Palm Beach, Florida.  With Dale Dewey and Ashley Stroke.
+
+## Privacy
+>
+>This website is hosted on GitHub Pages and does not use analytics, advertising, cookies, user accounts, or contact forms. Visitors who choose to contact Burritt Research by email or LinkedIn do so voluntarily. GitHub may collect standard server log information as part of providing hosting services.

@@ -160,4 +160,4 @@ Student Placement Highlights
 
 ## Privacy
 >
->This website is hosted on GitHub Pages and does not use analytics, advertising, cookies, user accounts, or contact forms. Visitors who choose to contact Burritt Research by email or LinkedIn do so voluntarily. GitHub may collect standard server log information as part of providing hosting services.
+>This website is hosted on GitHub Pages and does not use analytics, advertising, cookies, user accounts, or contact forms. Visitors who choose to contact Wayne Burritt by phone or email do so voluntarily. GitHub may collect standard server log information as part of providing hosting services.
